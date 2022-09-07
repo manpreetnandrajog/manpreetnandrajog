@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manpreetnandrajog
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning java
-- 📫 How to reach me through my linkdin profile!
+- 📫 How to reach me through my linkedin profile!
 
 <!---
 manpreetnandrajog/manpreetnandrajog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
